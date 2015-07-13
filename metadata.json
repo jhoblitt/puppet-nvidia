@@ -1,0 +1,16 @@
+{
+  "name": "jhoblitt-nvidia",
+  "version": "0.1.0",
+  "author": "Joshua Hoblitt <jhoblitt@cpan.org>",
+  "summary": "module skeleton",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jhoblitt/puppet-nvidia.git",
+  "project_page": "https://github.com/jhoblitt/puppet-nvidia",
+  "issues_url": "https://github.com/jhoblitt/puppet-nvidia/issues",
+  "operatingsystem_support": [
+    { "operatingsystem": "Fedora", "operatingsystemrelease": [ "21", "22" ] }
+  ],
+  "dependencies": [
+    { "name": "puppetlabs/stdlib", "version_requirement": ">= 4.6.0 < 5.0.0" }
+  ]
+}
